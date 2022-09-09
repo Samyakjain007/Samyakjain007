@@ -35,7 +35,7 @@ width="40" height="40"> &nbsp;&nbsp;
 ## Framework and Libraries:
 
 <img src="rabbitmq.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="MQTT.js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="mqtt.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="MongoDb.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
