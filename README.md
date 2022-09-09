@@ -28,8 +28,8 @@ I’m currently working at **LifeSignals India Pvt. Ltd.**
 width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="C++.png" alt="Girl in a jacket"
 width="40" height="40"> &nbsp;&nbsp;
-<img src="yaml1.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="bash-scripting.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="yaml.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="bash.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Framework and Libraries:
