@@ -36,7 +36,7 @@ width="40" height="40"> &nbsp;&nbsp;
 
 <img src="rabbitmq.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="mqtt.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="MongoDb.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="mongodb.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyakjain007&show_icons=true&locale=en&layout=compact" alt="Samyakjain007" /></p>
